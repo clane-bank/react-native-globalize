@@ -13,17 +13,17 @@ const path = require('path');
 const Cldr = require('cldrjs');
 
 const locales = [
-    'de',           // German
-    'en',           // English (United States)
-    'ng',           // Nigeria
-    'fr',           // French'
+  'de',           // German
+  'en',           // English (United States)
+  'ng',           // Nigeria
+  'fr',           // French'
 ];
 
 const currencies = [
-    'EUR',          // Euro
-    'GBP',          // British Pound
-    'USD',          // US Dollar
-    'NGN',          // Nigerian Naira
+  'EUR',          // Euro
+  'GBP',          // British Pound
+  'USD',          // US Dollar
+  'NGN',          // Nigerian Naira
 ];
 
 
